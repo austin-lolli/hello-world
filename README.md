@@ -1,4 +1,4 @@
 # hello-world
-First Repository \n
+First Repository
 
 I want to learn NodeJS!
